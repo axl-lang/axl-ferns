@@ -1,2 +1,2 @@
-# java-axl-ferns-
+# axl-ferns
 DSL
